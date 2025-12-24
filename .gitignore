@@ -1,0 +1,27 @@
+HELP.md
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.cache
+
+### NetBeans ###
+build/
+packages/
+NotesApp/bin/Debug
+NotesApp/obj/Debug
+
+### VS  ###
+/.vs
+/NotesApp/.vs
